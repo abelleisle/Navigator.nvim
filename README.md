@@ -2,7 +2,7 @@
 
 This is a stub mirror. The full source code for this commit is at:
 
-https://git.bitcicle.com/andy/Navigator.nvim/src/commit/34c1859086e75aead61ae070945a1ee80daaa4e6
+https://git.bitcicle.com/andy/Navigator.nvim/src/commit/cfcd9573086cc806bac3d8cfc284aa224dd4c219
 
 To browse or clone the full repository, visit:
 
