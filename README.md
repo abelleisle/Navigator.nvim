@@ -1,9 +1,15 @@
 # Navigator.nvim
 
-This is a stub mirror. The full source code for this commit is at:
+This is a stub mirror. The source code lives on Forgejo.
 
-https://git.bitcicle.com/andy/Navigator.nvim/src/commit/b92d5ecbfa60acb2af28362377c529da060f718b
+**Repository:** https://git.bitcicle.com/andy/Navigator.nvim
 
-To browse or clone the full repository, visit:
+## Branches
 
-https://git.bitcicle.com/andy/Navigator.nvim
+| Branch | Commit | Link |
+|--------|--------|------|
+| `master` | `b92d5ecbfa60` | [view](https://git.bitcicle.com/andy/Navigator.nvim/src/commit/b92d5ecbfa60acb2af28362377c529da060f718b) |
+
+---
+
+*Last updated: 2026-03-01 18:43:06 UTC*
